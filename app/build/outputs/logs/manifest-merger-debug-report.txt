@@ -4,31 +4,32 @@ ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xm
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d9fd0f9d2413d1485b690ac340fd0bdd/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c2f22d3fecd08e9bf343fb41fec0e58b/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2444e4ac8bf5e41fc0222e63298b7bae/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/df513ca6a5f5e92cbcbb6ae83255d618/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/239abd44858e532d14d05560c5341d1a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/6c6d83e3974f455c44439f04a6e130fb/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/09e0734645fd0f7289fcd4a5b87c7ba7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e4a3d379d1bcbe285b89607fcaeb9e70/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/87ae084eb3df2dbaca54f0e05c8f6900/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
@@ -54,12 +55,12 @@ ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xm
 		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:9:22-64
 application
 ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:11:5-26:19
-MERGED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:15:9-41
 	android:fullBackupContent
@@ -92,56 +93,58 @@ uses-sdk
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d9fd0f9d2413d1485b690ac340fd0bdd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d9fd0f9d2413d1485b690ac340fd0bdd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c2f22d3fecd08e9bf343fb41fec0e58b/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c2f22d3fecd08e9bf343fb41fec0e58b/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2444e4ac8bf5e41fc0222e63298b7bae/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2444e4ac8bf5e41fc0222e63298b7bae/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/df513ca6a5f5e92cbcbb6ae83255d618/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/df513ca6a5f5e92cbcbb6ae83255d618/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/239abd44858e532d14d05560c5341d1a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/239abd44858e532d14d05560c5341d1a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/6c6d83e3974f455c44439f04a6e130fb/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/6c6d83e3974f455c44439f04a6e130fb/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/09e0734645fd0f7289fcd4a5b87c7ba7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/09e0734645fd0f7289fcd4a5b87c7ba7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e4a3d379d1bcbe285b89607fcaeb9e70/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e4a3d379d1bcbe285b89607fcaeb9e70/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/87ae084eb3df2dbaca54f0e05c8f6900/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/87ae084eb3df2dbaca54f0e05c8f6900/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
