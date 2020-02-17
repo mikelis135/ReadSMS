@@ -13,40 +13,54 @@
 11    <uses-permission android:name="android.permission.READ_SMS" />
 11-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:9:5-67
 11-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:9:22-64
-12
-13    <application
-13-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:11:5-26:19
-14        android:allowBackup="true"
-14-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:12:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:18-86
-16        android:debuggable="true"
-17        android:fullBackupContent="true"
-17-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:13:9-41
-18        android:icon="@drawable/ic_launcher"
-18-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:14:9-45
-19        android:label="@string/app_name"
-19-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:15:9-41
-20        android:testOnly="true"
-21        android:theme="@style/Theme.AppCompat.Light" >
-21-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:16:9-53
-22        <activity
-22-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:18:9-25:20
-23            android:name="com.itcuties.android.apps.MainActivity"
-23-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:19:13-66
-24            android:label="@string/app_name" >
-24-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:20:13-45
-25            <intent-filter>
-25-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:21:13-24:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:17-69
-26-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:17-77
-28-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
+12    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+12-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:10:5-70
+12-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:10:22-67
+13
+14    <application
+14-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:12:5-34:19
+15        android:allowBackup="true"
+15-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:13:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:fullBackupContent="true"
+18-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:14:9-41
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:15:9-45
+20        android:label="@string/app_name"
+20-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:16:9-41
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AppCompat.Light" >
+22-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:17:9-53
+23        <activity
+23-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:19:9-26:20
+24            android:name="com.itcuties.android.apps.MainActivity"
+24-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:20:13-66
+25            android:label="@string/app_name" >
+25-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:21:13-45
+26            <intent-filter>
+26-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:13-25:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:17-69
+27-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:24:17-77
+29-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:24:27-74
+30            </intent-filter>
+31        </activity>
 32
-33</manifest>
+33        <receiver android:name="com.itcuties.android.apps.SmsListener" >
+33-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:28:9-32:20
+33-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:28:19-46
+34            <intent-filter>
+34-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:29:13-31:29
+35                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+35-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:30:17-82
+35-->/Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:30:25-79
+36            </intent-filter>
+37        </receiver>
+38    </application>
+39
+40</manifest>

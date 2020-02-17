@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/d9fd0f9d2413d1485b690ac340fd0bdd/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/93bc303e0edf41378a70a682ebb74605/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/c2f22d3fecd08e9bf343fb41fec0e58b/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
@@ -37,9 +37,9 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/taiwoadebayo/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/09e0734645fd0f7289fcd4a5b87c7ba7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/e4a3d379d1bcbe285b89607fcaeb9e70/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/87ae084eb3df2dbaca54f0e05c8f6900/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:4:5-40
 		INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml
@@ -60,8 +60,12 @@ uses-permission#android.permission.READ_SMS
 ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:10:22-67
 application
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:11:5-26:19
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:12:5-34:19
 MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -69,33 +73,43 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/taiw
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /Users/taiwoadebayo/.gradle/caches/transforms-2/files-2.1/4cea45bd005ddf160f2992f5d484b3c7/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:16:9-41
 	android:fullBackupContent
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:14:9-41
 	tools:ignore
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:17:9-48
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:18:9-48
 	android:icon
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:15:9-45
 	android:allowBackup
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:16:9-53
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:17:9-53
 activity#com.itcuties.android.apps.MainActivity
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:18:9-25:20
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:19:9-26:20
 	android:label
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:19:13-66
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:20:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:21:13-24:29
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:24:27-74
+receiver#com.itcuties.android.apps.SmsListener
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:28:19-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml:30:25-79
 uses-sdk
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/taiwoadebayo/ITCReadSMSExample/app/src/main/AndroidManifest.xml

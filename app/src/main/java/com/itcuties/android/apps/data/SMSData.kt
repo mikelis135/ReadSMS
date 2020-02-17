@@ -1,10 +1,3 @@
 package com.itcuties.android.apps.data
 
-class SMSData {
-
-    // Number from witch the sms was send
-    var number: String? = null
-    // SMS text body
-    var body: String? = null
-
-}
+data class SMSData(var number: String? = null, var body: String? = null, var subject : String? = null)

@@ -19,10 +19,9 @@ class ListAdapter constructor(context: Context,
         rowView = inflater.inflate(R.layout.activity_item, parent, false)
         val senderNumber = rowView.findViewById<TextView>(R.id.smsNumberText)
         senderNumber.text = smsList[position].body
-        Toast.makeText(context, smsList[position].body, Toast.LENGTH_SHORT).show()
 
         senderNumber.setOnClickListener {
-            Toast.makeText(context, smsList[position].body, Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, smsList[position].subject, Toast.LENGTH_SHORT).show()
         }
 
         return rowView
