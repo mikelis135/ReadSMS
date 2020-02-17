@@ -1,26 +1,28 @@
 package com.itcuties.android.apps
 
-import java.util.ArrayList
-
-import android.app.ListActivity
 import android.content.pm.PackageManager
 import android.net.Uri
 import android.os.Bundle
-
+import android.widget.ListView
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-
 import com.itcuties.android.apps.data.SMSData
 
-class MainActivity : ListActivity() {
+class MainActivity : AppCompatActivity() {
 
-    internal var smsList: MutableList<SMSData> = ArrayList()
+    var smsList: MutableList<SMSData> = arrayListOf()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        setContentView(R.layout.activity_main)
+
+        val list = findViewById<ListView>(R.id.list)
+//        val mainViewModel = ViewModelProvider(this).get(MainViewModel::class.java)
+
         val requestCode = 123
-        ActivityCompat.requestPermissions(this@MainActivity, arrayOf("android.permission.READ_SMS"), requestCode)
+        ActivityCompat.requestPermissions(this, arrayOf("android.permission.READ_SMS"), requestCode)
 
         if (ContextCompat.checkSelfPermission(baseContext, "android.permission.READ_SMS") == PackageManager.PERMISSION_GRANTED) {
             val uri = Uri.parse("content://sms/inbox")
@@ -41,8 +43,9 @@ class MainActivity : ListActivity() {
                 }
                 it.close()
             }
-            // Set smsList in the ListAdapter
-            listAdapter = ListAdapter(this, smsList)
+
+            list.adapter = ListAdapter(this, smsList)
+
         }
 
     }
