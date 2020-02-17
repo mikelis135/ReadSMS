@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.0"
 
     defaultConfig {
-        applicationId "com.itcuties.android.apps"
+        applicationId "com.sms.readsms"
         targetSdkVersion 29
         minSdkVersion 14
     }
